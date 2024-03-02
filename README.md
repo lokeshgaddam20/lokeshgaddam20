@@ -1,14 +1,14 @@
 <h2> Namathe 🙏🏻 , I'm Lokesh Gaddam! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZkdGNoNG80ZTV2YnlkNXFwNzE4b2F1bGlzeG5mM3N3N2diYTFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IHkILvQZ94BxMdBHp0/giphy.gif" width="230">
-<p><em>Graduating from <a href="https://www.cvr.ac.in/">CVRCOE
-</a><br>
+<p>Graduating from <a href="https://www.cvr.ac.in/">CVRCOE
+</a><br><br>
   Think. Execute. Code.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
+</p>
+<br>
 [![Twitter: LokeshG](https://img.shields.io/twitter/follow/LokeshGaddam20?style=social)](https://twitter.com/LokeshGaddam20)
 [![Linkedin: lokeshgaddam](https://img.shields.io/badge/-gaddamlokesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaddamlokesh/)](https://www.linkedin.com/in/gaddamlokesh/)
 ![GitHub followers](https://img.shields.io/github/followers/lokeshgaddam20?label=Follow&style=social)
-
+<br>
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
@@ -20,7 +20,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```bash
 npx lokesh
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/lokeshgaddam20/npx_card)**
+**👆 This command line tool can be found at [npx lokesh](https://github.com/lokeshgaddam20/npx_card)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...  
 
