@@ -26,15 +26,16 @@ npx lokesh
 ```javascript
 const loki = {
   pronouns: "he" | "him",
-
-  web: [React/NextJS, FramerMotion, GSAP, React-Three-Fiber],
-  tools: [Docker, Redis, PrismaORM, TensorFlow, Pytorch],
-  app: [Flutter, Riverpod, Hive, Redux, Kotlin],
-  cloud: [GCP, Azure, AWS, Jenkins, GKE],
-  design: [Figma, Wix, Awwards],
-
-  love: "To code and get worthy-clicks"
-  motive: "Get myself to stand out from a pile around me."
+  technologies:{
+    web: [React/NextJS, FramerMotion, GSAP, React-Three-Fiber],
+    tools: [Docker, Redis, PrismaORM, TensorFlow, Pytorch],
+    app: [Flutter, Riverpod, Hive, Redux, Kotlin],
+    cloud: [GCP, Azure, AWS, Jenkins, GKE],
+    design: [Figma, Wix, Awwards],
+  }
+  love: "To code and get worthy-clicks",
+  motive: "Get myself to stand out from a pile around me.",
+  funfact: “Copy-and-Paste was programmed by programmers for programmers actually.”
 }
 ```
 
