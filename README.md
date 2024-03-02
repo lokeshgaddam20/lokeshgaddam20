@@ -12,7 +12,7 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/gaddamlokesh/1-hour-meet" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+<a href="https://calendly.com/gaddamlokesh/1-hour-meet" target="_blank"><img width="498" alt="meet_link" src="(https://github.com/lokeshgaddam20/lokeshgaddam20/assets/115930003/6cd0eead-dab9-42ca-baa7-0c10b55ee30f"></a>
 
 👇 Hit in your console or terminal to connect with me.
 
