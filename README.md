@@ -1,9 +1,10 @@
 <h2> Hi, I'm Lokesh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZkdGNoNG80ZTV2YnlkNXFwNzE4b2F1bGlzeG5mM3N3N2diYTFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IHkILvQZ94BxMdBHp0/giphy.gif" width="210">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZkdGNoNG80ZTV2YnlkNXFwNzE4b2F1bGlzeG5mM3N3N2diYTFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IHkILvQZ94BxMdBHp0/giphy.gif" width="100%">
 
 [![Twitter: LokeshG](https://img.shields.io/twitter/follow/LokeshGaddam20?style=social)](https://twitter.com/LokeshGaddam20)
 [![Linkedin: lokeshgaddam](https://img.shields.io/badge/-gaddamlokesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaddamlokesh/)](https://www.linkedin.com/in/gaddamlokesh/)
-[![GitHub LokeshG](https://img.shields.io/github/gaddamlokesh?label=follow&style=social)](https://github.com/lokeshgaddam20)
+[![NPM @lokeshgaddam/ui](https://img.shields.io/npm/1.0.0/ui
+)](https://npm.pkg.github.com/lokeshgaddam20/ui)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...  
