@@ -1,12 +1,12 @@
 <h2> Hi, I'm Lokesh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZkdGNoNG80ZTV2YnlkNXFwNzE4b2F1bGlzeG5mM3N3N2diYTFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IHkILvQZ94BxMdBHp0/giphy.gif" width="210">
 
-[![Twitter: LokeshG](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/LokeshGaddam20)
-[![Linkedin: lokeshgaddam](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaddamlokesh/)](https://www.linkedin.com/in/gaddamlokesh/)
-[![GitHub LokeshG](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/lokeshgaddam20)
+[![Twitter: LokeshG](https://img.shields.io/twitter/follow/LokeshGaddam20?style=social)](https://twitter.com/LokeshGaddam20)
+[![Linkedin: lokeshgaddam](https://img.shields.io/badge/-gaddamlokesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaddamlokesh/)](https://www.linkedin.com/in/gaddamlokesh/)
+[![GitHub LokeshG](https://img.shields.io/github/gaddamlokesh?label=follow&style=social)](https://github.com/lokeshgaddam20)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...  
 
 ```javascript
 const loki = {
