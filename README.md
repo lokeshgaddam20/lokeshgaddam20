@@ -4,11 +4,10 @@
 </a><br><br>
   Think. Execute. Code.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </p>
-<br>
+
 [![Twitter: LokeshG](https://img.shields.io/twitter/follow/LokeshGaddam20?style=social)](https://twitter.com/LokeshGaddam20)
 [![Linkedin: lokeshgaddam](https://img.shields.io/badge/-gaddamlokesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaddamlokesh/)](https://www.linkedin.com/in/gaddamlokesh/)
 ![GitHub followers](https://img.shields.io/github/followers/lokeshgaddam20?label=Follow&style=social)
-<br>
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
