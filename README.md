@@ -19,7 +19,7 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```bash
 npx lokeshgaddam20
 ```
-**👆 This command line tool can be found at [npx lokesh](https://www.npmjs.com/package/lokeshgaddam20)**
+**👆 This command line tool can be found at [npx lokeshgaddam20](https://www.npmjs.com/package/lokeshgaddam20)**
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> A little more about me...  
 
