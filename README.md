@@ -1,4 +1,4 @@
-<h2> Namathe 🙏🏻 , I'm Lokesh Gaddam! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Namasthe 🙏🏻 , I'm Lokesh Gaddam! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWZkdGNoNG80ZTV2YnlkNXFwNzE4b2F1bGlzeG5mM3N3N2diYTFpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IHkILvQZ94BxMdBHp0/giphy.gif" width="230">
 <p>
   Think. Execute. Code.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
